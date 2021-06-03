@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Dormer of Ascot, Esq; appellant. The Honable Charles Bertie and Henry Bertie, Esqres, the children of the honable Peregrine Bertie, Esq; deceas'd, and the children of Henry Cane, Sen' Gent. deceas'd, respondents. The respondents case.</title>
+            <author>Dormer, John.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21313</idno><idno type="EEBO-CITATION">99894238</idno>
+  <idno type="VID">190491</idno>
+  <idno type="EEBO-PROQUEST">2240931565</idno>
+  
+            <idno type="STC">Wing D1922</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[28]</idno>
+            <idno type="PROQUEST">ocm99894238</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99894238e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190491)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[92])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John Dormer of Ascot, Esq; appellant. The Honable Charles Bertie and Henry Bertie, Esqres, the children of the honable Peregrine Bertie, Esq; deceas'd, and the children of Henry Cane, Sen' Gent. deceas'd, respondents. The respondents case.</title>
+                  <author>Dormer, John.</author>
+                  <author>Poley, Henry, d. 1707.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Henry Poley.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Imperfect: lacks docket title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Dormer, Robert.</term>
+               <term type="topical_term">Debtor and creditor --  England --  Early works to 1800.</term>
+               <term type="topical_term">Real property --  England --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  Cases --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190491:1"/>
+            <head>
+               <list>
+                  <item>John Dormer <hi>of</hi> Ascot, <hi>Esq; Appellant.</hi>
+                  </item>
+                  <item>
+                     <hi>Respon<g ref="char:EOLhyphen"/>dents.</hi>
+                     <list>
+                        <item>
+                           <hi>The Hon<seg rend="sup">able</seg>
+                           </hi> Charles Bertie <hi>and</hi> Henry Bertie, <hi>Esq<seg rend="sup">res</seg>, </hi>
+                        </item>
+                        <item>
+                           <hi>The Children of the Hon<seg rend="sup">able</seg>
+                           </hi> Peregrine Bertie, <hi>Esq; deceas'd,</hi>
+                        </item>
+                        <item>
+                           <hi>And the Children of</hi> Henry Cane, <hi>Sen' Gent. deceas'd, </hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </head>
+            <head>The Respondents CASE.</head>
+            <p>
+               <hi>RObert Dormer,</hi> Esq; (deceas'd) being seized in Fee of a real Estate of near 1700 <hi>l. per Annum;</hi> and, having contracted Debts to the amount of 8000 <hi>l.</hi> beyond the Value of his personal Estate, made his Will, and thereby devised out of the said real Estate 200 <hi>l. per Annum</hi> apiece in Fee to his six Brothers of the Half-Blood (the <hi>Dormers</hi> of <hi>Rowsham</hi>) to be settled on them by his Executors at the end of three Years next af<g ref="char:EOLhyphen"/>ter his Death.
+<note place="margin">
+                  <hi>Will</hi> to Novemb. 1693.</note> And gave to each of his Executors Legacies of 5 <hi>l.</hi> a piece to buy them Rings and the like Legacy to the Appellant.
+<note place="margin">The very Words.</note> Willed, That all his Debts should be paid by his Executors: <q rend="margQuotes">And then gave all the rest and resi<g ref="char:EOLhyphen"/>due of his real and personal Estate to his three Uncles, <hi>Peregrine, Charles</hi> and <hi>Henry Bertie,</hi> and <hi>Henry Cane,</hi> Sen' (whom he appointed Executors of his Will, in Trust and Confidence that they would see it performed) equally to be divided between them, Share and Share alike: To have and to hold the same to them, their Heirs and Assigns for ever, or to the Survivors of them, who should take the Care and Trouble upon them to see the Will performed.</q>
+            </p>
+            <p>These four Executors (now Respondents) proved the Will and took upon them the Payment of the Debts.
+<note place="margin">
+                  <hi>Testator died</hi> 1 Feb. 93. 24 Jan. 1697.</note>
+            </p>
+            <p>The Appellant brought his Bill in <hi>Chancery</hi> for recovery of the whole Estate, suggesting, That the Will was obtained by fraud and when the Testator was not <hi>compos mentis;</hi> and in other Parts of his Bill he seemed only to aim at the said Surplus, on pretence, that 'twas devised in trust for him, and ought to enure to his Benefit as Heir at Law.</p>
+            <p>The Appellant might and ought to have gone to Hearing upon the Construction of the Will without any Exami<g ref="char:EOLhyphen"/>tion; but, instead thereof, he took out a Commission, and examined many Witnesses upon pretence of setting aside the Will,
+<note place="margin">The Appellant was but Cousin-German to the Testator.</note> which necessitated the Respondents to examine on their part to support the Will: And it was fully made appear, That the Testator had a great Respect and Value for his said Executors, (three of whom were his own Uncles) and that the Appellant had quite lost his Favour.</p>
+            <p>The Appellant, after the Commission executed, moved and got leave to add an Interrogatory, to examine one <hi>Smith</hi> and <hi>Mason,</hi> as to Mr. <hi>Cane</hi>'s Discourses touching the Will, and afterwards (without giving due Notice) mo<g ref="char:EOLhyphen"/>ved,
+<note place="margin">6 Feb. 1698.</note> and by surprize, obtained an Order of 6 <hi>Feb.</hi> 1698. for enlarging the Interrogatory so as to extend it to the Testator's Discourses,
+<note place="margin">9 Feb. 1698.</note> and to re-examine <hi>Smith</hi> thereto; which last Order was three Days afterwards discharg'd upon long Debate, the Court being satisfied that no such Examination or Enquiry ought to be permitted in relation to a Will in Writing, and that <hi>Smith</hi> had been before examined at the Commission to that very Matter.</p>
+            <p>On Hearing the Cause,
+<note place="margin">3 March. 1698.</note> the Appellant insisting that the Will was not good, the Court directed the Validity thereof to be tried at Law, and that Mr. <hi>Cane,</hi> Sen', who drew the same, should be examined on Interroga<g ref="char:EOLhyphen"/>tories, for discovery of the Draught and Instructions.</p>
+            <p>Mr. <hi>Cane</hi> was examined accordingly: After which the Appellant would not proceed to Tryal, but waved the same,
+<note place="margin">
+                  <hi>Lord</hi> Somers, 14 June, 1699.</note> and admitted the Will to be good, and 14 <hi>June,</hi> 1699, brought on the Cause to be Heard as to the pretended Trust: Whereupon, and upon Reading the Will and Proofs and long Debate, the Court declared they saw no Cause to give the Appellant any Relief, and therefore Dismissed his Bill: From which Dismission, and also from the said Order of 6 <hi>Feb.</hi> Mr. <hi>Dormer</hi> the Heir has Appealed, and prays he may have the Benefit of the said Surplus claimed by the Respondents.</p>
+            <p>But the Respondents are advised, and do insist that the said Dismission is just and equitable; for that the said Will is so far from Importing or Implying any Trust for the Appellant, as to any of the Lands thereby devised, that there can hardly be found Words that do more expresly exclude any such Trust, Presumption or Implication as the Appellant aims at.
+<note place="margin">Vide, <hi>Act against Frauds;</hi> &amp;c. <hi>in</hi> 1677.</note> And the said Order of the 6 <hi>Feb.</hi> was justly Discharged, for that it is not Consonant to the Laws and Statutes of this Realm, that any Examination or Parol-proof should be admitted to alter the Construction of a written Will concerning Lands, and for that it is against Practice, and would be of dangerous Consequence to all Mens Estates, and a means to introduce Perjury, if Wit<g ref="char:EOLhyphen"/>nesses who have been once examined in a Cause, should afterwards be permitted to be re-examined to the same Matters.</p>
+            <closer>
+               <signed>
+                  <hi>Wherefore the Respondents pray the said Appeal may be Dismissed with Costs.</hi> HENRY POLEY.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
